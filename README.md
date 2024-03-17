@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moneymeh72
+- 👋 Hi, I’m Money
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Backend in WebDev
 - 💞️ I’m looking to collaborate on ...Web-Dev projects
