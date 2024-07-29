@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Money
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Backend in WebDev
+- 🌱 A Full Stack Web Developereager to learn more and more ..
 - 💞️ I’m looking to collaborate on ...Web-Dev projects
 - 📫 How to reach me money.united007@gmail.com
 
